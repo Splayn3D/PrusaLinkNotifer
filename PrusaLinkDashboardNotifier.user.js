@@ -4,6 +4,8 @@
 // @version      2024-02-25
 // @description  Checks the title for "Attention" and produces a visual and audable notification.
 // @author       Splayn and ChatGPT
+// @updateURL    https://github.com/Splayn3D/PrusaLinkNotifer/raw/main/PrusaLinkDashboardNotifier.user.js
+// @downloadURL  https://github.com/Splayn3D/PrusaLinkNotifer/raw/main/PrusaLinkDashboardNotifier.user.js
 // @match        http://mk4nr1/
 // @match        http://prusaprinter/
 // @grant        GM_notification
